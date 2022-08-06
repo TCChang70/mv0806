@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Test.jsp/title>
 </head>
 <body>
 Time:<%=  new java.util.Date().toLocaleString() %>
