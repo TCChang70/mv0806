@@ -1,6 +1,7 @@
 package model;
 
 public class Product {
+	    //This fileds does not math to db classicmodel tabel products
 	    private String code;
 	    private String price;
 	    private int quantity;
